@@ -14,7 +14,7 @@
 -   이용훈 개인 프로젝트
 ### ⚙️ 개발 환경
 
--   **프론트엔드 언어** : `HTML/CSS``Javascript`
+-   **프론트엔드 언어** : `HTML/CSS, Javascript`
 -   **IDE**  :  `VS Code`
 
 
